@@ -1,0 +1,53 @@
+//*******************************************************//
+//                                                       //
+//                 DuplicateRemoval                      //
+//                                                       //
+//                   Kyle Strand                         //
+//               kyletstrand@gmail.com                   //
+//                  19 July 2013                         // 
+//                                                       //
+//   Reads a text file and removes duplicate entries     //
+//   and creates a new file without the duplicates       //
+//   leaving the initial file intact.                    //
+//                                                       //  
+//*******************************************************//
+
+
+===About===
+
+DuplicateRemoval is a simple too created that reads text based files with 
+duplicate entries and removes the duplicate entries and writes a new file 
+without the duplicate entries. In my work, I deal with large amounts of 
+data and much of it is duplicate. Many times I need to analyze this data 
+without duplicate entries. So I wrote this program to take care of this 
+issue. I use it so frequently, I decided to make it public in hopes someone 
+else can find some use of it.
+
+===Command Structure===
+
+./DuplicateRemoval <input file> <new output file>
+
+I have included a simple text file called "abc.txt" which lists the English 
+alphabet with many duplicates. You can run DuplicateRemoval on this file 
+just to see that it works!
+
+===Necessary licenesing stuff===
+
+This program is free software; you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by the
+Free Software Foundation; either version 3 of the License, or any later
+version. This program is distributed in the hope that it will be
+useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+General Public License for more details.
+
+=========================================
+
+With all that being said, if you have questions or suggestions, feel free
+to email me. If you want to add to it, change it, hack it, dance with it 
+etc...be my guest! I just want it to be useful!
+
+
+Kyle Strand
+Winona State University
+2013
